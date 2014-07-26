@@ -1,5 +1,4 @@
 ## makeCacheMatrix: allows the creation of  a special "matrix" object that can cache its inverse.
-## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 ## it has 4 methods
 ## 1 set => set the matrix of this object - it receives a matrix
 ## 2 get => get the matrix of this object - it returns a matrix
