@@ -102,7 +102,7 @@ In order to complete this assignment, you must do the following:
 
 ### Testing 
 
-I have added the following file for testing: `test-cachematrix.R`
+I have added the following file for some initial testing: `test-cachematrix.R`
 	
 	
 ### Grading
